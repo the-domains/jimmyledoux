@@ -6,22 +6,24 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Introduce myself and the blog to you!'
-datePublished: '2016-01-11T21:24:36.158Z'
-dateModified: '2016-01-11T21:24:03.510Z'
+datePublished: '2016-01-11T21:40:20.728Z'
+dateModified: '2016-01-11T21:40:03.859Z'
 title: Some Words about the Blog
 author: []
+sourcePath: _posts/2016-01-11-some-words-about-the-blog.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-some-words-about-the-blog.md
-published: true
 url: some-words-about-the-blog/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2620d6-7114-4b5a-afa5-bfe189a9e427.jpg)
+
 Hi, I'm Jimmy Ledoux.  I have been an accountant in New Orleans for over 30 years.  I work with small business owners to gain clarity in their business.  This includes simplifying their accounting and finding the right path for their business.  You can learn more about this at www.outsource1.net.
 
 As part of the journey to better serve my clients, I have really looked to the digital world as to how to change the process and procedures we use to grow and manage a successful business.  I feel like I have gone back to school.  I have become fascinated with all of the knowledge available through the internet and ebooks on Amazon.  I am a Kindle addict.  I have also taken countless online courses, both paid and free.
@@ -33,4 +35,3 @@ My goal is to post once or twice a week.  Most of the post will include links to
 Give me some feedback.  As we go on this journey, let me know what you would like to hear about or is there a particular problem you are trying to solve.  Maybe you have some valuable content you would like to share.
 
 See you soon.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2620d6-7114-4b5a-afa5-bfe189a9e427.jpg)
