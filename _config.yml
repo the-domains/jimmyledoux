@@ -1,7 +1,7 @@
 name: jimmyledoux
 favicon: null
 layout_spectrum: 0.9934766707010567
-typography_spectrum: 0.9083153768442571
+typography_spectrum: 0.25828
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.8244642049539834
   lightness: 0.6636590254493058
-  saturation: 0.11570361675694585
-  rhythmicContrast: 0.22749974997714162
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
