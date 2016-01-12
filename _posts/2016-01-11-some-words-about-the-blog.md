@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Introduce myself and the blog to you!'
-datePublished: '2016-01-11T21:44:04.884Z'
-dateModified: '2016-01-11T21:43:04.984Z'
+datePublished: '2016-01-12T03:56:10.743Z'
+dateModified: '2016-01-12T03:55:57.968Z'
 title: Some Words about the Blog
 author: []
 sourcePath: _posts/2016-01-11-some-words-about-the-blog.md
